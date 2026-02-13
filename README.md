@@ -17,7 +17,7 @@ Built with **Streamlit**, this platform allows you to explore portfolio strategi
 
 ## Project Structure
 
-```bash
+```text
 Multi-Asset Risk Platform/
 │
 ├── app.py                     # Streamlit dashboard
